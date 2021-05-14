@@ -1,0 +1,21 @@
+{
+    "name": "wpreact/wpreact",
+    "type": "wordpress-plugin",
+    "description": "Companion plugin for WP React API",
+    "keywords": [
+        "WordPress",
+        "Plugin",
+        "React"
+    ],
+    "homepage": "https://github.com/Seldaek/monolog",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "WP React",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    }
+}
